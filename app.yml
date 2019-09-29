@@ -1,0 +1,8 @@
+# deployConfig:
+#   type: http
+#   profile:
+#     accountId:
+#     accessKeyId:
+#     accessKeySecret:
+#     defaultRegion:
+# endpoint:
